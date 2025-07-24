@@ -26,7 +26,7 @@ cd Portfolio_Website_Development
 ```
 ### โครงสร้างไฟล์:
 ```
-mini-ecommerce/
+Portfolio_Website_Development/
 ├── index.html
 ├── js/
 │   ├── script.js
